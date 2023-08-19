@@ -7,10 +7,15 @@ This is a Java implementation of the classic 2048 game. The game is played on a 
 Run the TwentyFortyEight class, and the game will initialize with two random tiles (90% chance for a 2, 10% chance for a 4) placed on the grid.
 The game will present the current state of the board, along with your score. The score is the sum of all the values on the board.
 Enter your move using the following keys:
+
 w: Move tiles upwards.
+
 a: Move tiles to the left.
+
 s: Move tiles downwards.
+
 d: Move tiles to the right.
+
 After each move, a new tile will be added to the board (if there's an empty cell). Tiles with the same value will merge if they are adjacent.
 Continue making moves to merge tiles and increase your score.
 The game ends when there are no valid moves left on the board (no adjacent tiles with the same value, and no empty cells).
