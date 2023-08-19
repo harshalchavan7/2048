@@ -25,6 +25,7 @@ At the end of the game, your final score will be displayed, and the game will be
 
 The code is organized as follows:
 TwentyFortyEight class: Represents the game logic, including board initialization, tile addition, movement, merging, and checking for game over.
+
 main method: The entry point of the program. It initializes the game, takes user input for moves, and continues until the game is over.
 Feel free to explore and modify the code to add new features or enhance the gameplay. Have fun playing and experimenting with the game!
 
