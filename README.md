@@ -2,7 +2,7 @@
 
 This is a Java implementation of the classic 2048 game. The game is played on a 4x4 grid, where the goal is to reach the tile with a value of 2048. Tiles with the same value can be merged when they are adjacent, and the player can make moves in four directions: up, down, left, and right.
 
-#How to Play
+# How to Play
 
 Run the TwentyFortyEight class, and the game will initialize with two random tiles (90% chance for a 2, 10% chance for a 4) placed on the grid.
 The game will present the current state of the board, along with your score. The score is the sum of all the values on the board.
